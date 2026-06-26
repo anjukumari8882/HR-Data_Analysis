@@ -1,1 +1,1 @@
-# HR-Data_Analysis
+Explored a large-scale HR dataset using Python to uncover insights on employee performance, work modes, departments, salaries, and workforce trends. Leveraged Pandas, Matplotlib, and Seaborn for data cleaning, analysis, and visualization to support data-driven HR decision-making.
